@@ -9,7 +9,7 @@ const CardList = (props) => (
       const profile = this.props;
       // TODO : to understand react classes
       // TODO Second update of 
-      // TODO
+      // TODO last
       return (
       <div className="github-profile" style={{margin: '1rem'}}>
         <img src={profile.avatar_url} style={{width: '75px', height: '75px'}}/>
